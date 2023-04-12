@@ -12,7 +12,7 @@ bpmn.js是一个BPMN2.0渲染工具包和web建模器.
 
 [GitHub 官方案例](https://github.com/bpmn-io/bpmn-js-examples)
 
-[掘金中文版网友自己整理的教程](https://juejin.cn/post/6844904017567416328)
+[bpmn行业规范](https://cloud.trisotech.com/bpmnquickguide/bpmn-quick-guide/start-event.html)
 
 所有的 API 都在官方的 demo 文档中
 
