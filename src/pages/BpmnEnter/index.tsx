@@ -7,6 +7,7 @@ import { createContext, useEffect, useRef, useState } from "react";
 import Operation from "./Operation";
 import PropertiesPanel from "./PropertiesPanel";
 import { getMockBpmnData } from "./bpmnMock";
+import customModdleDescriptor from "./descriptors";
 import styles from "./style.less";
 
 const customTranslateModule = {
@@ -27,7 +28,7 @@ export default function HomePage() {
       additionalModules: [customTranslateModule],
       moddleExtensions: {
         // 描述文件
-        // custom: customModdleDescriptor,
+        custom: customModdleDescriptor,
       },
     });
     const instance = {
