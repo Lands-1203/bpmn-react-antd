@@ -4,7 +4,7 @@ bpmn.js是一个BPMN2.0渲染工具包和web建模器.
 
 简单来说, 就是前端来实现画流程图
 
-[Bpmn流程引擎文档整理](https://yavozbji3yo.feishu.cn/wiki/wikcnbU0fZpiDu2gzhHWYZh8uwc)
+[Bpmn流程引擎文档整理](https://ua63gyamokc.feishu.cn/wiki/wikcnxRllsLy5PpEKfLE77KPBXb)
 
 ## 前言
 
@@ -20,8 +20,5 @@ bpmn.js是一个BPMN2.0渲染工具包和web建模器.
 
 核心包
 `npm i bpmn-js`
-
-属性面板
-`npm i bpmn-js-properties-panel @bpmn-io/properties-panel`
 
 
